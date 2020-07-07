@@ -17,3 +17,9 @@ The log of my #100DaysOfCode challenge. Started on [July 03, Friday, 2020].
 
 - Built a simple tic tac toe game using HTML, CSS and JavaScript.
 - Read a few more concepts of JS through Eloquent JavaScript.
+
+### R1D5
+
+- Started learning basics of HTML and CSS before diving into advanced JS concepts.
+- Started HTML & CSS: Design and build websites by Jon Duckett.
+- Went over initial HTML material on freeCodeCamp.
