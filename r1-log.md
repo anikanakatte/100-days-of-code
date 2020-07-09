@@ -23,3 +23,8 @@ The log of my #100DaysOfCode challenge. Started on [July 03, Friday, 2020].
 - Started learning basics of HTML and CSS before diving into advanced JS concepts.
 - Started HTML & CSS: Design and build websites by Jon Duckett.
 - Went over initial HTML material on freeCodeCamp.
+
+### R1D6, D7
+
+- Continued HTML and CSS on freeCodeCamp
+- Finished the Tribute Page project on the Responsive Web Design Certification
