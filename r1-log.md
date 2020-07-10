@@ -27,4 +27,9 @@ The log of my #100DaysOfCode challenge. Started on [July 03, Friday, 2020].
 ### R1D6, D7
 
 - Continued HTML and CSS on freeCodeCamp
-- Finished the Tribute Page project on the Responsive Web Design Certification
+- Finished the Tribute Page project on the Responsive Web Design Certification.
+
+### R1D8
+
+- Finished the Survey Page project on freeCodeCamp.
+- Went over Flexbox concepts by playing Flexbox froggy game.
